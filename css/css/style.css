@@ -20,13 +20,14 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
-.acttion-buton{
+.action-button{
+
     padding: 16px;
     background-color: darkgray;
     border-radius: 7px;
     color: darkslategray;
 }
-.acttion-buton: :hover{
+.action-button: :hover{
     
     padding: 16px;
     background-color: darkgray;
